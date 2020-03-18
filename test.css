@@ -1,0 +1,85 @@
+
+@font-face {
+    font-family: 'FanSong';
+    src: url('images/MFFanSongNoncommercial-Regular.woff2') format('woff2'), 
+        url('images/MFFanSongNoncommercial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    background-size: 100% 100%;
+    background: url(images/bg.png) center 0 no-repeat;
+    padding: 0;
+}
+#bg {
+    width: 1280px;
+    height: 720px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+}
+#up {
+    width: 1280px;
+    height: 50px;
+    float: left;
+    margin: 0;
+}
+#center {
+    width: 1280px;
+    height: 450px;
+    float: left;
+    margin: 0;
+}
+#center_left {
+    width: 400px;
+    height: 450px;
+    float: left;
+    margin: 0;
+}
+#center_left_up {
+    width: 400px;
+    height: 225px;
+    float: left;
+    margin: 0;
+}
+#center_left_down {
+    width: 400px;
+    height: 225px;
+    float: left;
+    margin: 0;
+}
+#center_center {
+    width: 780px;
+    height: 450px;
+    float: left;
+    margin: 0;
+}
+#center_right {
+    width: 100px;
+    height: 450px;
+    float: left;
+    margin: 0;
+}
+#down {
+    width: 1280px;
+    height: 220px;
+    float: left;
+    margin: 0;
+}
+#down_left {
+    width: 780px;
+    height: 220px;
+    float: left;
+    margin: 0;
+}
+
+#down_right {
+    width: 500px;
+    height: 220px;
+    float: left;
+    margin: 0;
+}
